@@ -1,5 +1,7 @@
 # merge_sort
 
+The goal of this repository is to get some practice on the concept of recursion as a part of The Odin Project curriculum! 
+
 Fibonacci
 Two versions made:
 1. fibs(n) 
